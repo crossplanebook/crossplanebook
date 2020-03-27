@@ -1,0 +1,6 @@
+[book]
+authors = ["hasheddan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "crossplane"
