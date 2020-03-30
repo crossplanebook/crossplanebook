@@ -6,3 +6,10 @@ that allow us to knowledgeably explore Kubernetes and Crossplane. Go is renowned
 for its simplicity and readability, which makes it an excellent language for
 newcomers. Understanding a few concepts can get you up and running (and writing
 most of the code that we cover in this book) very quickly.
+
+## Additional Resources
+
+- [A Tour of Go](https://tour.golang.org/)
+- [Dave Cheney's Blog](https://dave.cheney.net/)
+- [Go by Example](https://gobyexample.com/)
+- [Effective Go](https://golang.org/doc/effective_go.html)
